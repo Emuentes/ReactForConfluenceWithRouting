@@ -1,0 +1,16 @@
+{
+  "name": "react-for-use-in-confluence-pages-with-deep-linking",
+  "version": "1.0.0",
+  "description": "1) Open \"index.html\" file\n\n2) Copy the contents of the \"body\" tag\n\n3) In your confluence document, add an \"HTML\" macro\n\n4) paste code (that you copied in step 2) into the HTML macro!\n\n5) Check out your embedded React app running -- complete with React Router implemented with deep-linking working :-D",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}

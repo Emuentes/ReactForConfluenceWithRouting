@@ -1,2 +1,0 @@
-# ReactForConfluenceWithRouting
-Created with CodeSandbox
